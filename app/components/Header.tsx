@@ -12,7 +12,7 @@ export default function Header() {
           
           <div className="text-center">
             <h1 className="text-2xl md:text-3xl font-bold uppercase tracking-wide">
-              TRƯỜNG SĨ QUAN PHÁO BINH
+              BỘ TƯ LỆNH PHÁO BINH - TÊN LỬA
             </h1>
             <p className="text-red-100 text-sm md:text-base mt-1">
               Hệ thống chia sẻ tài liệu điện tử

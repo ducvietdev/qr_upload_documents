@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Trường Sĩ Quan Pháo Binh - Hệ thống chia sẻ tài liệu",
-  description: "Hệ thống chia sẻ tài liệu điện tử của Trường Sĩ Quan Pháo Binh",
+  title: "Bộ Tư lệnh Pháo binh - Tên lửa | Hệ thống chia sẻ tài liệu điện tử",
+  description: "Hệ thống chia sẻ tài liệu điện tử của Bộ Tư lệnh Pháo binh - Tên lửa",
 };
 
 export default function RootLayout({
